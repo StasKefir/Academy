@@ -1,0 +1,15 @@
+.container-big {
+    background-color: #34c95c;
+}
+html, body, h1 {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.small-container {
+    height: 300px;
+    width: 500px;
+      background-color: #d674e3;
+}
