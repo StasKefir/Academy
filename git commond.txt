@@ -4,5 +4,5 @@ git config --local user.name "Kefir"
 git config --local user.email "staskefir99@gmail.com"
 git add -A
 git commit -m "add"
-
-git push
+git remote add origin https://github.com/VictorStashko/st.git ( тут своя адреса з зеленої кнопки)
+git push -u origin master
