@@ -1,0 +1,18 @@
+1) Що таке CSS (стилі, розміри елементів. різні екрани; все по 2 речення)
+2) Що таке CSS, підключення стилів.
+3) Селектори (клас, id, елемент) 
+4) Box-model (margin, padding)
+5.1)блочні, блочно-строчні елементи
+5.2) Display:inline-block і попередній розбір д.з
+
+Проект фінальний роблять тільки ті хто здав всі дз
+
+
+Почитати :
+https://html5book.ru/block-inline-elements/
+https://htmlacademy.ru/courses/44/run/18
+обов'язково виконати завдання в ссилці
+http://www.css-tricks.ru/articles/css/css-box-model
+
+
+урок по гіту https://study.up-skills.ru/teach/control/lesson/view/id/55554449

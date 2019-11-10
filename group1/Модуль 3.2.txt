@@ -1,0 +1,9 @@
+1. Псевдоклассы и псевдоэлементы 
+http://htmlbook.ru/samcss/psevdoklassy
+http://htmlbook.ru/samcss/psevdoelementy
+https://www.youtube.com/watch?v=4E_7ulxP3nI&t=1s
+
+2. Шрифт Google fonts 
+	font-family, font-size
+
+3. ДЗ розбір і фотошоп 
