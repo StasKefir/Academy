@@ -1,0 +1,16 @@
+ ссилки в допомогу:
+http://gnatkovsky.com.ua/poyavlenie-bloka-pri-navedenii-s-pomoshhyu-css.html
+http://htmlbook.ru/css/transform
+https://ru.learnlayout.com/position.html
+
+
+http://htmlbook.ru/css/z-index
+https://htmlacademy.ru/courses/45/run/19 
+z-index
+
+
+http://flatonika.ru/css-gradient-generator-onlajn/ 
+генератор градієнта
+
+https://docs.google.com/spreadsheets/d/1qoRyvaDmModeJKNW6tTR2TRkt6lnagato7N4locoRRE/edit#gid=0
+ПЛан занятть
