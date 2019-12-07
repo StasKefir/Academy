@@ -1,0 +1,13 @@
+6.1Тег input, select, textarea
+6.2. Основні атрибути: type, value, name, placeholder, etc
+
+матеріал відео для урока 
+https://www.youtube.com/watch?v=esezonQwHLM
+
+розбор дз попереднього і наступного
+
+приклад форми для роботи в класі
+https://www.google.com/search?q=%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80&rlz=1C1CHBD_ruUA845UA846&sxsrf=ACYBGNSg8AQh54jTse70KQZpM8FThsoQnw:1575742874223&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOzpnSk6TmAhWpAxAIHdvDDXYQ_AUoAXoECAwQAw&biw=1366&bih=625#imgrc=2YmMnHN_0cb2rM:
+
+http://fecore.net.ua/homework/module-7.html
+дз7
