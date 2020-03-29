@@ -1,0 +1,61 @@
+/* @import url('https://fonts.googleapis.com/css?family=Playfair+Display|Ubuntu:300&display=swap'); */
+
+@font-face {
+    font-family: "PlayFairDisplay-Regular";
+    src: url("../fonts/PlayfairDisplay-Regular.woff") format("woff"),
+    url("../fonts/PlayfairDisplay-Regular.ttf") format("ttf"),
+           url("../fonts/PlayfairDisplay-Regular.eot") format("eot");
+   }
+
+.block-span {
+    font-family: 'Ubuntu', sans-serif;
+    color: #c8c3b9;
+    font-size: 14px;
+    /* margin: 40px; */
+}
+.title-block {
+    /* font-family: 'Playfair Display', serif; */
+    font-family: "PlayFairDisplay-Regular";
+    font-size: 30px;
+    color: #626262;
+}
+
+.more-information {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    color: #626262;
+}
+
+.bnt-block button {
+    width: 165px;
+    height: 60px;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    color: #707070;
+    border: 2px solid #626262;
+    background-color:white;
+}
+
+.color-red {
+    width: 200px;
+    height: 200px;
+    padding: 20px 15px 10px 5px;
+    background-color: yellowgreen;
+}
+
+.color-blue {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    /* margin: 40px 10px 30px 20px; */
+}
+/* 
+.color-green {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+} */
+
+div {
+    display: inline-block;і
+}
