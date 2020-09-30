@@ -1,0 +1,13 @@
+.footer {
+    /* padding-left: 15px;
+    width: 200px;
+    height: 30px;
+    border: 2px solid #353235;
+    font-size: 24px;
+    color: purple; */
+    width: 100%;
+    background-image: url(./img/background.png);
+}
+.footer::placeholder {
+    color: purple;
+}

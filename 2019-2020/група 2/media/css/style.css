@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@300&display=swap');
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 84.374vw;
+}
+
+.promo {
+    width: 100%;
+    background-image: url(../img/background.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 140px;
+}
+header {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.logo h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+.header__buttons {
+    margin-top: 20px;
+    margin-bottom: 115px;
+}
+.header__buttons a {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+.signin {
+    border: 2px solid #fff;
+    border-radius: 40px;
+    padding: 10px 20px;
+    margin-left: 10px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    /* justify-content: center; */
+}
+
+.description h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 30px;
+}
+
+.description p{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 18px;
+}
+
+.description button{
+    width: 100%;
+    max-width: 280px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: #ff4e50;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 14px;
+}
+
+@media screen and (min-width: 404px) {
+    .promo{ padding-top: 20px;}
+}
+@media screen and (min-width: 560px) {
+    .promo{ padding-bottom: 20px;}
+}
+
+
+@media screen and (min-width: 768px) {
+    header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 155px;
+        margin-top: 40px;
+    }
+
+    .header__buttons {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+  }
+
+  @media screen and (min-width: 1440px) {
+    .container {
+        width: 65.277vw;
+    }
+  }

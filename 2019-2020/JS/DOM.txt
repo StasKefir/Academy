@@ -1,0 +1,5 @@
+1. що таке DOM ,структура
+2. queryselector , all, id, class
+3. DOM свойства  і артибути: textContent, HTMLElement.style, .classList
+4. створення, вставакав вузол і видалення вузлів remove
+5. innerHTML

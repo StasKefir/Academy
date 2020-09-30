@@ -1,0 +1,9 @@
+1. події
+2. способи виклику функції ( в html, через подію, виклик в середині функції)
+3. addEventListener
+4. event.target
+5. event.preventDefault()
+6. Клавіатура
+7. KeyboardEvent.key и KeyboardEvent.code
+8. Событие change Событие input
+9. Загрузка документа

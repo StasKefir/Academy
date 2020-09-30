@@ -1,0 +1,186 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 82.5%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    width: 41.66%;
+}
+
+.ul-list {
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style-type: none;
+    /* Убираем маркеры */
+}
+
+.head-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.red-line {
+    width: 60px;
+    height: 5px;
+    background-color: #f38181;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0 20px 0;
+}
+
+.item {
+    width: 28.33%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.item-description p {
+    margin: 0;
+}
+
+.head-text-lorem {
+    text-align: center;
+}
+.team {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card {
+
+}
+.second-man {
+    position: relative;
+    width: 380px;
+    height: 470px;
+    background-image: url(../img/second_man.png);
+}
+
+.gradient {
+    display:none;
+    width: 380px;
+    height: 470px;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    opacity: 0.8;
+    background-image: linear-gradient(to bottom, rgb(255, 71, 157), rgb(252, 82, 144), rgb(249, 93, 132), rgb(246, 104, 119), rgb(243, 115, 106), rgb(240, 126, 93), rgb(237, 136, 81), rgb(234, 147, 68), rgb(231, 158, 55), rgb(228, 169, 42), rgb(225, 180, 30), rgb(222, 191, 17));
+}
+
+.second-man:hover .gradient {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-background {
+    background-color:#fce38a;
+    width: 50px;
+    height: 50px;
+}
+
+.img-background:hover {
+    background-color:#95e1d3;
+} 
+
+.first-man {
+    position: relative;
+    width: 380px;
+    height: 470px;
+    background-image: url(../img/second_man.png);
+}
+.first-man:hover .gradient {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.third-man {
+    position: relative;
+    width: 380px;
+    height: 470px;
+    background-image: url(../img/second_man.png);
+}
+.third-man:hover .gradient {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    width: 100%;
+    height: 2px;
+    background-color: #e5e5e5;
+    margin-bottom: 25px;
+}
+
+footer h5 {
+    color: #7a7a7a;
+    font-size: 14px;
+    margin: 0;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-content-right {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-content-right input {
+    width: 230px;
+    height: 38px;
+    border: 1px solid #e7e7e7;
+    padding: 0;
+    padding-left: 15px;
+}
+
+.footer-content-right input::placeholder {
+    color: #e0e0e0;
+    font-size: 15px;
+}
+
+.footer-content-right button {
+    height: 40px;
+    width: 150px;
+    background-color: #95e1d3;
+    color: #ffffff;
+    border: none;
+    padding: 0;
+}
+
+.footer-red {
+    color: #f38181;
+}
+ 
